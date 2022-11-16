@@ -1,9 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrlee010&count_bg=%23FCBCAB&title_bg=%23186EDC&icon=&icon_color=%235E5B5B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-notion-1877f2?logo=notion&logoColor=white&link=https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)](https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)
 
-[![blog Badge](https://img.shields.io/badge/-blog-1877f2?logo=blog&logoColor=white&link=https://blog.naver.com/loleego)](https://blog.naver.com/loleego)
-
-
+[![Blog Badge](https://img.shields.io/badge/-Blog-1877f2?logo=Blog&logoColor=white&link=https://blog.naver.com/loleego)](https://blog.naver.com/loleego)
 
 
 - 👋 Hi, I’m Sora Lee
