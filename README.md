@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235D605B&title_bg=%2319CE60&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235D605B&title_bg=%2318BC9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-notion-1877f2?logo=notion&logoColor=white&link=https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)](https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)
 [![Naver Badge](https://img.shields.io/badge/-Blog-1877f2?logo=Naver&logoColor=white&link=https://blog.naver.com/loleego)](https://blog.naver.com/loleego)
 
