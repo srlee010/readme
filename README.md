@@ -5,9 +5,9 @@
 
 
 - 👋 Hi, I’m Sora Lee
-- 👀 I’m interested in studying computer science
-- 🌱 I’m currently learning ...html, css and javaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in studying computer science.
+- 🌱 I’m currently learning ...html, css and javaScript.
+- 💞️ I'm obsessed with console games. 
 - 📫 How to reach me ... loleego@naver.com
 
 <!---
