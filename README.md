@@ -2,7 +2,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-notion-1877f2?logo=notion&logoColor=white&link=https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)](https://srlee010.notion.site/Sora-Lee-0405c2ddd42a4932b72e6de49911af62)
 [![Naver Badge](https://img.shields.io/badge/-Naver-1877f2?logo=Naver&logoColor=white&link=https://blog.naver.com/loleego)](https://blog.naver.com/loleego)
 
-[![Sora's github stats](https://github-readme-stats.vercel.app/api?username=Sora's Github Status&count_private=true&custom_title=Sora's Github Status&bg_color={180, #AABBCC, #FBC6BE}&title_color=#AABBCC&text_color=#AABBCC)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m Sora Lee
