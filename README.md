@@ -8,7 +8,7 @@
 - 👀 I’m interested in studying computer science.
 - 🌱 I’m currently learning ...html, css and javaScript.
 - 💞️ I would like to be a resourceful person.
-- 📫 How to reach me ... loleego@naver.com
+- 📫 How to reach me ... srlee010@gmail.com
 
 <!---
 srlee010/srlee010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
