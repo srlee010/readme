@@ -7,7 +7,7 @@
 - 👋 Hi, I’m Sora Lee!
 - 👀 I’m interested in studying computer science.
 - 🌱 I’m currently learning ...html, css and javaScript.
-- 💞️ I would like to be a resourceful person.
+- 💞️ I would like to be a resourceful person!
 - 📫 How to reach me ... srlee010@gmail.com
 
 <!---
