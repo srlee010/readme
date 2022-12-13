@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi, I’m Sora Lee!
+- 👋 Hi, I’m Sora Lee!!
 - 👀 I’m interested in studying computer science.
 - 🌱 I’m currently learning ...html, css and javaScript.
 - 💞️ I would like to be a resourceful person!
