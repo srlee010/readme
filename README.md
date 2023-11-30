@@ -5,9 +5,9 @@
 
 
 - 👋 Hi, I’m Sora Lee!
-- 👀 I’m interested in studying iOS and computer science.
-- 🌱 I’m currently learning iOS Swift Language and will make application.
-- 💞️ I would like to be a iOS Developer who shares good effects on society.
+- 👀 I’m interested in studying Web Programming and computer science.
+- 🌱 I’m currently learning JavaScript Language and will make websites.
+- 💞️ I would like to be a UI Developer who shares good effects on society.
 - 📫 How to reach me ... srlee010@gmail.com
 
 <!---
